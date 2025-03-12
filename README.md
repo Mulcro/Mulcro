@@ -7,10 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 **`Full Stack Software Developer`**
 
-A full-stack engineer experienced in designing user-friendly interfaces, building efficient RESTful APIs demonstrated by a recent project that
-involved solo developing a tutoring management system for Merced College. Proficient in managing both SQL and NoSQL databases, familiar
-with Agile development practices, adept at CI/CD pipelines, automated testing, and performance optimization. Thrive in collaborative
-environments and continuously willing to learn while contributing towards meaningful impact.
+Hi, I’m Mulero! I’m a full-stack engineer passionate about building innovative, user-friendly applications and efficient backend services. I design interactive web interfaces and develop robust, scalable backend solutions that ensure smooth data flow and top-notch performance. With expertise in both SQL and NoSQL databases, Agile methodologies, CI/CD pipelines, and automated testing, I’m always learning and collaborating on projects that make a meaningful impact.
 
    <p align="left">
       <a href="https://mulero.io">

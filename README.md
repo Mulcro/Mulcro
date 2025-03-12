@@ -13,7 +13,7 @@ with Agile development practices, adept at CI/CD pipelines, automated testing, a
 environments and continuously willing to learn while contributing towards meaningful impact.
 
    <p align="left">
-      <a href="https://mulcro.io">
+      <a href="https://mulero.io">
       <img src="https://custom-icon-badges.demolab.com/badge/-Check%20Out%20My%20Portfolio-purple?style=for-the-badge&logo=globeee&logoColor=white"/>   
       </a> 
       <a href="https://github.com/mulcro?tab=followers">
